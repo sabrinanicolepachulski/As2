@@ -1,0 +1,10 @@
+#!/bin/bash
+tar -czf /var/my-backup.tgz, `find /home/jmoore -mtime -1`
+#create the backup file only with files older than an hour
+if [ $? -eq 0 ]
+#? = find mtime if null error and log, if not backup worked and log to txt file.
+then
+echo "Backup was sucessful on: " `date` >> /home/jmoore/log.txt
+else
+echo "Backup not sucessful on: " `date` >> /home/jmoore/log.txt
+fi

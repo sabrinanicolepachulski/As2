@@ -1,0 +1,13 @@
+Location: Crete
+Accomodation Type: Hotel
+Date Of Booking2015-04-15   11:13:33
+Date of Travel:  2015/April/15
+Hoilday Long : 7
+Add Extra luggage : No
+Add Airport Transfer : No
+Travel insurance : No
+No. of Night: 
+Number of People: 2  Adult      1  Child/Old
+Price:   561.25
+Vat#:  112.25
+Total:  673.50
